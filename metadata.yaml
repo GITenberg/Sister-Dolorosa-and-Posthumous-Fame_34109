@@ -1,0 +1,30 @@
+_repo: Sister-Dolorosa-and-Posthumous-Fame_34109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: Title; Contents; SISTER DOLOROSA; Chapter I; Chapter II; Chapter III;
+  Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter
+  X; Chapter XI; Chapter XII; POSTHUMOUS FAME; Chapter I; Chapter II; Chapter III;
+  Chapter IV
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+title: Sister Dolorosa, and Posthumous Fame
+url: http://www.gutenberg.org/ebooks/34109
